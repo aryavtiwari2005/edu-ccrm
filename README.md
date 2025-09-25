@@ -131,14 +131,3 @@ enrollment.assignGrade(new Grade("A"));
 ## Contributors
 
 - [Aryav Tiwari](https://github.com/aryavtiwari2005) – Creator & Maintainer
-
----
-
-## License
-
-This project is currently **unlicensed**. If you plan to use or distribute, please add a license file (e.g., MIT, Apache 2.0).
-
-```
-
-Would you like me to also **add a sample `Main.java` entry point** (so users can directly run and test the system), or just keep the README general?
-```
