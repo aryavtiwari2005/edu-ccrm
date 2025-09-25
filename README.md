@@ -1,6 +1,3 @@
-Here’s a complete README draft for the **edu-ccrm** project:
-
-````markdown
 # edu-ccrm
 
 ## Introduction
@@ -43,6 +40,7 @@ Here’s a complete README draft for the **edu-ccrm** project:
    ```bash
    git clone https://github.com/aryavtiwari2005/edu-ccrm.git
    ```
+
 ````
 
 2. Navigate into the project folder:
@@ -131,3 +129,4 @@ enrollment.assignGrade(new Grade("A"));
 ## Contributors
 
 - [Aryav Tiwari](https://github.com/aryavtiwari2005) – Creator & Maintainer
+````
